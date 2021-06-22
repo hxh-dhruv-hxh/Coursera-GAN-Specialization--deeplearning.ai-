@@ -1,2 +1,2 @@
-# Coursera GAN Specialization (deeplearning.ai)
+# Coursera---GAN-Specialization
  
